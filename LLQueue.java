@@ -1,3 +1,8 @@
+//Joel Ye
+//APCS2 pd10
+//HW25 -- Brits Do Not Wait In Line
+//2016 - 04 - 04
+
 /*****************************************************
  * class LLQueue
  * uses a linked list to implement a QUEUE
